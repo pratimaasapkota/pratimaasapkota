@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratimaasapkota&label=Profile%20views&color=0e75b6&style=flat" alt="pratimaasapkota" /> </p>
 
-- 🌱 I’m currently learning **and growing in the field of web development.I love developing new thing using my programming skills. For the back-end and front-end.**
+- 🌱 I’m currently learning **and growing in the field of web development. I love developing new thing using my programming skills. For the back-end and front-end.**
 
 - 📫 How to reach me **pratimasapkota66@gmail.com**
 
