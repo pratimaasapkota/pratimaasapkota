@@ -1,6 +1,5 @@
-<h1 align="center">Hi there!👋, I'm Pratima Sapkota</h1>
-<h3 align="center">A dedicated learner from Nepal </h3> <p><h5 align="center">I am an enthusiastic computer engineering undergraduate with a passionate about AI,ML,data science and programming. My goals is to learn consistently and sharing my learnings here. I also enjoy learning web development, Committed to continuous learning and harnessing hard work for a successful teach career.</h5></p>
-
+<h2 align="center">Hi there!👋, I'm Pratima Sapkota</h2>
+<h4 align="center">A dedicated learner from Nepal </h4> <p><h5 align="center">I am an enthusiastic computer engineering undergraduate with a passionate about AI,ML,data science and programming. My goals is to learn consistently and sharing my learnings here. I also enjoy learning web development, Committed to continuous learning and harnessing hard work for a successful teach career.</h5></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratimaasapkota&label=Profile%20views&color=0e75b6&style=flat" alt="pratimaasapkota" /> </p>
 
 - 🌱 I’m currently learning **and growing in the field of web development. I love developing new thing using my programming skills. For the back-end and front-end.**
